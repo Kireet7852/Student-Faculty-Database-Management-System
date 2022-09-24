@@ -46,7 +46,12 @@ Thanks !
 * Admin userid : admin
 * Admin password  : admin
 * Faculty userid  : Faculty id
-* Student Userid  : cource-sem-rollnumber (CS-5-75)        
+* Student Userid  : cource-sem-rollnumber (CS-5-75)   
+
+
+## Screenshots
+
+![alt-text-1](/Screenshot/1.png "title-1") ![alt-text-2](/Screenshot/2.png "title-2")
 
 
 Contact me for any improvement in this project.
